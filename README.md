@@ -14,6 +14,9 @@ To perform a deep-dive business analysis and develop an interactive dashboard us
 - Microsoft Excel
 - Data Analysis
 - Business Intelligence
+## Dashboard Preview
+
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 ## Dashboard KPIs
 
